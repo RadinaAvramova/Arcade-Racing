@@ -1,17 +1,4 @@
-/*
- * =====================================================================================
- *
- *       Filename:  BtOgreExtras.h
- *
- *    Description:  Contains the Ogre Mesh to Bullet Shape converters.
- *
- *        Version:  1.0
- *        Created:  27/12/2008 01:45:56 PM
- *
- *         Author:  Nikhilesh (nikki)
- *
- * =====================================================================================
- */
+
 
 #ifndef _BtOgreShapes_H_
 #define _BtOgreShapes_H_
