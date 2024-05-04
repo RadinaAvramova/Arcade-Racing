@@ -1,18 +1,4 @@
-/*
- * =====================================================================================
- *
- *       Filename:  BtOgreGP.h
- *
- *    Description:  The part of BtOgre that handles information transfer from Ogre to
- *                  Bullet (like mesh data for making trimeshes).
- *
- *        Version:  1.0
- *        Created:  27/12/2008 03:29:56 AM
- *
- *         Author:  Nikhilesh (nikki)
- *
- * =====================================================================================
- */
+
 
 #ifndef _BtOgrePG_H_
 #define _BtOgrePG_H_
