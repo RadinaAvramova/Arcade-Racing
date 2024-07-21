@@ -1,8 +1,6 @@
 //-----------------------------------------------------------------------------------------------------------------------
 // This script is part of the Particle Universe Media Pack product.
 //
-// Copyright (c) 2008 Henry van Merode
-//
 // Usage of this program is licensed under the terms of the Particle Universe Commercial License.
 // You can find a copy of the Commercial License in the Particle Universe package.
 //-----------------------------------------------------------------------------------------------------------------------
